@@ -1,7 +1,7 @@
 # Java-Week3-ToDo-List
 
-Author: Brian Marete
+Author: Velma Gatwiri
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
-Each branch contains a new "Step" of code. Please fork, then clone.
+The code was used to trigger the pipeline using a push event. Technologies adopted include, Jenkins, Ngrok and Git.
